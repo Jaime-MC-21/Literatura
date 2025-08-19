@@ -1,11 +1,3 @@
-# LiterAlura 📚
-
-**Versión:** 1.0.0  
-**Licencia:** MIT  
-**Desarrollador:** Santiago Gabriel Cabrera
-
----
-
 ## Descripción del Proyecto
 
 **LiterAlura** es una aplicación basada en Java y Spring Boot diseñada para la gestión de libros y autores. Permite buscar y gestionar información de libros y autores, integrándose con la API pública de **Gutendex** para enriquecer los datos almacenados en una base de datos local. Este proyecto es ideal para aprender sobre desarrollo backend, manejo de bases de datos y consumo de APIs.
@@ -108,24 +100,6 @@ Seleccione una opción:
 - Integración con servicios de almacenamiento en la nube para la base de datos.
 - Adición de autenticación y autorización para control de accesos.
 
-## Licencia
-Este proyecto está licenciado bajo la licencia MIT
-
----
-
-## Créditos
-
-Este proyecto fue desarrollado por **Santiago Gabriel Cabrera** como parte de un aprendizaje y práctica continua en 
-desarrollo backend con Java y Spring Boot. Toda colaboración es bienvenida.
-
----
-
-## Contacto
-- Santiago Gabriel Cabrera
-
-   https://github.com/SntXHub
-
----
 
 
 
